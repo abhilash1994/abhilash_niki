@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @abhilash1994
-Sign out
- Watch 1
- Star 0  Fork 0 artista7/Nikki_shubham
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-Branch: master Find file Copy path Nikki_shubham/stopwords_pruned.txt
-09b7745  23 days ago
-@artista7 artista7 Added pipeline and grid search for param optimization
-1 contributor
-RawBlameHistory
-839 lines (416 sloc)  2.86 KB
 # Freely available stopword list.  This stopword
 
 # list provides a nice balance between coverage
@@ -77,10 +59,6 @@ anything
 anywhere
 
 area
-
-areas
-
-around
 
 as
 
@@ -161,9 +139,6 @@ clear
 clearly
 
 come
-
-
-d
 
 did
 
