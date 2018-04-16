@@ -54,7 +54,7 @@ class MyClassifier(object):
     def svm_classifier(self):
         return SGDClassifier(
             loss='hinge', penalty='l2', n_iter=5,
-            random_state=42
+            random_state=40
         )
 
     def pipeline(self):
